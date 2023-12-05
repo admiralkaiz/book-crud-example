@@ -1,0 +1,6 @@
+com/contoh/crudbuku/Application.class
+com/contoh/crudbuku/repository/BookRepository.class
+com/contoh/crudbuku/service/impl/BookServiceImpl.class
+com/contoh/crudbuku/service/BookService.class
+com/contoh/crudbuku/entity/Book.class
+com/contoh/crudbuku/controller/BookController.class
